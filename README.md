@@ -1,4 +1,8 @@
 ### Hi there 👋
+✨ I’m currently an undergraduate student majored in Data Science and Big Data Technology in ECNU, Shanghai. 
+✨ I’m currently working on computer vision, especially low-level vision including image denoising and super-resolution.
+🌱 I’m considering learning computational photography.
+💬 Feel free to contact me.
 
 <!--
 **BhJia/BhJia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
