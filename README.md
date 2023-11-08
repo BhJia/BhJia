@@ -1,6 +1,6 @@
 ✨ I’m currently an undergraduate student majored in Data Science and Big Data Technology in ECNU, Shanghai.  
-✨ I’m currently working on computer vision, especially low-level vision including image denoising and super-resolution.  
-🌱 I’m considering learning computational photography.  
+✨ I’m interested in computer vision, especially low-level vision including image/video denoising and super-resolution.  
+🌱 I’m currently working on computational photography.  
 💬 Feel free to contact me.
 
 <!--
