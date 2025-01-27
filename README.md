@@ -1,6 +1,6 @@
-✨ I’m currently an undergraduate student majored in Data Science and Big Data Technology in ECNU, Shanghai.  
-✨ I’m interested in computer vision, especially low-level vision.  
-🌱 I’m currently working on image/video denoising and super-resolution.  
+✨ I’m currently a graduate CS student in ECNU, Shanghai.  
+✨ I’m interested in Multimodal Large Language Models(MLLMs) and AIGC.  
+🌱 I’m currently working on Multimodal understanding & generation, image editing.  
 💬 Feel free to contact me.
 
 <!--
